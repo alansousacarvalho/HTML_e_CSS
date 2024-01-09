@@ -1,0 +1,10 @@
+a {
+  color: tomato;
+  font-size: 18px;
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
